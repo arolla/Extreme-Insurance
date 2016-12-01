@@ -74,3 +74,5 @@ Once you are registered, your team becomes listed in the score board.
 
 - Use Postman to test your server
 
+**!!!You Are Not Ready Until You Get Requests on Your /feedback!!!**
+

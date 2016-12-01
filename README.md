@@ -51,9 +51,11 @@ Connect to the game server (server IP to be given)
 
 In the top little form, fill-in your team name, your password (to prevent other from usurpating your score), and your public IP:port. You can register again using the same name and passwor when you wish.
 
+![Registration form](/registration.png)
+
 Once you are registered, your team becomes listed in the score board.
 
-![The score board on the game server](/end_it4_TDD.png)
+![The score board on the game server](/scoreboard.png)
 
 **REMEMBER: THE GAME SERVER IS RIGHT EVEN WHEN IT’S WRONG**
 

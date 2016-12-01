@@ -53,7 +53,7 @@ In the top little form, fill-in your team name, your password (to prevent other 
 
 Once you are registered, your team becomes listed in the score board.
 
-
+!(end_it4_TDD.png)[The score board on the game server]
 
 
 **REMEMBER: THE GAME SERVER IS RIGHT EVEN WHEN IT’S WRONG**

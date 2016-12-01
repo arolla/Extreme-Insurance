@@ -45,6 +45,16 @@ Make it work:
 - Dates handling
 … ...then score points already!
 
+## Register your server
+
+Connect to the game server (server IP to be given)
+
+In the top little form, fill-in your team name, your password (to prevent other from usurpating your score), and your public IP:port. You can register again using the same name and passwor when you wish.
+
+Once you are registered, your team becomes listed in the score board.
+
+
+
 
 **REMEMBER: THE GAME SERVER IS RIGHT EVEN WHEN IT’S WRONG**
 
@@ -59,5 +69,7 @@ Make it work:
 
 **This calculation will change in the next iterations**. You may want to create some tests to help change later...
 
+## Troubleshouting
 
+- Use Postman to test your server
 
